@@ -3,7 +3,6 @@ Erl
 
 A spawn of Erlang.
 
-
 History
 -------
 
