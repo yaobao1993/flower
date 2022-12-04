@@ -1,0 +1,10 @@
+flower-1.0:
+    From OTP-23.3.4.7 to flower-1.0
+    Change:
+        1. Remove .github directory
+        2. Rename README.md to README.old.md
+        3. Add README.txt
+        4. Update system/doc/top/Makefile
+        5. Fix emacs erlang-mode: xref switched to CL-Lib,
+           link: erlang/otp#5324
+        6. Add VERSION.txt
